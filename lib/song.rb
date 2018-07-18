@@ -1,5 +1,7 @@
 require 'pry'
 
+puts ("Lol")
+
 class Song
   attr_accessor :name
   attr_reader :artist
